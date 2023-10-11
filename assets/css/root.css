@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Nunito:wght@700;900&display=swap");
+
+:root {
+  /* font-size */
+  --fs-sm: 10px;
+  --fs-xsm: 12px;
+  --fs-2xsm: 14px;
+  --fs-md: 17px;
+  --fs-xmd: 18px;
+  --fs-lg: 24px;
+  --fs-xlg: 30px;
+  --fs-xl: 40px;
+  --fs-2xl: 44px;
+  --fs-3xl: 48px;
+  --fs_2xl: 52px;
+  /* color */
+  --color-main: #1e1e1e;
+  --color-primery: #fddc50;
+  --color-button: #faca10;
+  --color-icon: #fbcc04;
+  --color-gary: #a5a5a5;
+  --color-light-gary: #b0b0b0;
+  --color-ellipes: #fef0b8;
+  --color-white: #fff;
+  --color-bg-white: #f7f7f7;
+  --color-white2: #fefefe;
+  --color-gray-44: #c4c4c4;
+  /* font-family */
+  --ff-main: "Nunito";
+  --ff-primery: "Lora";
+}
+
+/* font-family */
+
+.ff_main {
+  font-family: var(--ff-main);
+}
+
+.ff_primery {
+  font-family: var(--ff-primery);
+}
+
+/* font-size */
+.fs_sm {
+  font-size: var(--fs-sm);
+}
+
+.fs_xsm {
+  font-size: var(--fs-xsm);
+}
+
+.fs_2xsm {
+  font-size: var(--fs-2xsm);
+}
+
+.fs_md {
+  font-size: var(--fs-md);
+}
+
+.fs_xmd {
+  font-size: var(--fs-xmd);
+}
+
+.fs_lg {
+  font-size: var(--fs-lg);
+}
+
+.fs_xlg {
+  font-size: var(--fs-xlg);
+}
+
+.fs_xl {
+  font-size: var(--fs-xl);
+}
+
+.fs_2xl {
+  font-size: var(--fs-2xl);
+}
+
+.fs_3xl {
+  font-size: var(--fs-3xl);
+}
+
+.fs_4xl {
+  font-size: var(--fs_2xl);
+}
+
+/* color */
+.color_main {
+  color: var(--color-main);
+}
+
+.color_primery {
+  color: var(--color-primery);
+}
+
+.color_button {
+  color: var(--color-button);
+}
+
+.color_icon {
+  color: var(--color-icon);
+}
+
+.color_gary {
+  color: var(--color-gary);
+}
+
+.color_light_gary {
+  color: var(--color-light-gary);
+}
+
+.color_ellipes {
+  color: var(--color-ellipes);
+}
+.color_white {
+  color: var(--color-white);
+}
+.bg_color_white2 {
+  background: var(--color-white2);
+}
+
+.color_gray-44 {
+  color: var(--color-gray-44);
+}
+.color_bg-white{
+    background: var(--color-bg-white);
+}
